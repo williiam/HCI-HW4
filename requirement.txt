@@ -1,0 +1,9 @@
+charset-normalizer 
+numpy              
+opencv-python      
+packaging          
+pandas             
+pip                
+setuptools         
+six                
+urllib3            
