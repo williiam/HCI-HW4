@@ -17,3 +17,8 @@ python3 main.py
 ## author
 
 #### 108703051 謝惟寧
+https://github.com/williiam/HCI-HW4
+
+影片連結：
+https://youtu.be/NFH60zN71z8
+https://drive.google.com/file/d/1HKZIJqQ0gcBV_eJJvS0V2JdCIx-3LzI-/view?usp=sharing
